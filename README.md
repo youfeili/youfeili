@@ -1,5 +1,5 @@
 # 💫About Me :
-My name is Youfei and I'm currently a Computer Science student at Temple University. I'm looking to get into the field of Cyber Security and I'm currently studying the Network+.
+My name is Youfei and I'm currently a Computer Science student at Temple University. I'm looking to get into the field of Cyber Security.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/youfei-li27) 
